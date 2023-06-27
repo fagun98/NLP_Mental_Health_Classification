@@ -1,1 +1,6 @@
 # NLP-Mental-Health-Classification
+This repository focuses on improving the accuracy and effectiveness of mental health diagnosis by integrating sentiment analysis into a BERT-based classification model. The objective is to identify patients in need of mental health treatment more accurately. By incorporating emotional analysis into the feature vector of the model, valuable insights into patients' mental health needs can be gained, enhancing the reliability of the classification process.
+
+The repository includes code and experiments comparing the performance of a classification model with and without sentiment analysis. Various sizes of training sets are utilized to determine the optimal approach. Additionally, different sentiment analysis models trained on Twitter data or Facebook posts are investigated to assess their impact on the results.
+
+Through this study, the repository aims to contribute to the development of more accurate and effective diagnostic tools by providing a comprehensive understanding of the potential benefits of integrating sentiment analysis into mental health diagnosis. The key technologies utilized in this project are BERT (Bidirectional Encoder Representations from Transformers) and KW-ATTN.
